@@ -1,0 +1,73 @@
+body {
+
+}
+
+.principal{
+	background: #CCCCCC ;
+	padding:  30px;
+}
+
+h1{
+    text-align:  center;
+}
+
+#banner{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+p {
+	text-aling: center;
+}
+
+strong{
+	font-size: 20px;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.pilares{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	vertical-aling: top;
+	width: 30%;
+	margin-left: 10%;
+	margin-rigth:  10%;
+}
+
+.imagempilares{
+	width: 35%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
